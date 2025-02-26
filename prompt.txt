@@ -1,0 +1,114 @@
+[PROMPT 1]
+We're planning to launch a new critical illness product. Could you:
+1) Show the quarterly loss ratio trends for ages 35-60 from 2020-2023
+2) Analyze the increase in pre-existing conditions
+3) Run a simulation to determine premium adjustments needed to maintain a 85% loss ratio
+4) Provide recommendations for exclusion criteria
+
+[PROMPT 2]
+For our new long-term care insurance product development:
+1) What's the average care cost by severity level?
+2) How has the progression rate between care levels changed over the last 5 years?
+3) What's the impact of cognitive decline vs physical impairment on claims?
+Please provide detailed cost projections for the next decade.
+
+[PROMPT 3]
+We need a comprehensive analysis of our dental insurance portfolio:
+- Claims frequency by procedure type (preventive, basic, major)
+- Impact of annual check-ups on future claims
+- Cost trend analysis for implants and orthodontics
+- Suggestion for a new premium structure based on preventive care compliance
+
+[PROMPT 4]
+Analyze the feasibility of a new parametric insurance product for diabetes management:
+1) Correlation between HbA1c levels and hospitalization rates
+2) Cost impact of continuous glucose monitoring
+3) Premium adjustment factors based on diabetes management compliance
+4) Projected loss ratios under different scenario assumptions
+
+[PROMPT 5]
+For a new mental health insurance product targeting millennials:
+- Analyze therapy session utilization patterns
+- Compare in-person vs telehealth claims costs
+- Project demand for different mental health services
+- Recommend coverage limits and waiting periods
+How should we price this considering the rising trend in mental health claims?
+
+[PROMPT 6]
+We're developing an AI-driven underwriting model for term life insurance:
+1) Compare mortality rates between traditional and automated underwriting
+2) Analyze the predictive power of different data points (medical history, lifestyle, family history)
+3) Suggest premium differentiation based on risk factors
+4) Project potential impact on loss ratios
+
+[PROMPT 7]
+For our cancer insurance product redesign:
+- Analyze stage-wise treatment costs for major cancer types
+- Study survival rates and treatment duration patterns
+- Evaluate the impact of new immunotherapy treatments on claims
+- Suggest a new benefit structure considering medical inflation
+What premium increase would maintain profitability given current trends?
+
+[PROMPT 8]
+Analyze our current disability insurance portfolio:
+1) Claims duration patterns by occupation class
+2) Return-to-work rates after different disability causes
+3) Impact of mental health conditions on disability claims
+4) Effectiveness of rehabilitation programs
+Recommend pricing adjustments for different occupation classes.
+
+[PROMPT 9]
+We're launching a usage-based auto insurance product:
+- Correlation between driving behavior and accident frequency
+- Impact of mileage on claims probability
+- Optimal premium discount structure for safe driving
+- Projected loss ratios under different discount scenarios
+Please provide a detailed pricing model.
+
+[PROMPT 10]
+For our new critical illness product targeting women:
+1) Analyze breast cancer diagnosis trends by age group
+2) Study the impact of early detection on survival rates
+3) Compare treatment costs across different stages
+4) Project future claims costs considering medical advancement
+What should be our pricing strategy for different age bands?
+
+[PROMPT 11]
+Evaluate the market opportunity for a new cyber insurance product:
+- Frequency and severity of different types of cyber attacks
+- Average recovery costs by business size
+- Impact of security measures on claim probability
+- Suggested coverage limits and exclusions
+Please provide a risk-based pricing model.
+
+[PROMPT 12]
+Analyze the performance of our hospital cash product:
+1) Average length of stay trends by diagnosis
+2) Impact of day surgery on hospitalization patterns
+3) Correlation between age and hospitalization frequency
+4) Effect of pre-existing conditions
+What benefit structure would optimize customer value and profitability?
+
+[PROMPT 13]
+For a new income protection insurance product:
+- Analyze salary continuation patterns during disability
+- Study recovery times for different conditions
+- Impact of occupation on claims duration
+- Cost of living adjustment effects
+Please suggest an optimal benefit period and elimination period structure.
+
+[PROMPT 14]
+We need analysis for a new critical illness product with recovery benefits:
+1) Recovery period patterns for different critical illnesses
+2) Rehabilitation costs by condition type
+3) Impact of age on recovery duration
+4) Correlation between recovery support and return-to-work rates
+What should be our pricing strategy for the recovery benefit rider?
+
+[PROMPT 15]
+Analyze the feasibility of a wellness-linked health insurance product:
+- Correlation between fitness metrics and claim frequency
+- Impact of preventive health checks on claims
+- Optimal premium discount structure for healthy behaviors
+- Cost-benefit analysis of wellness program investments
+Please provide a model for premium adjustments based on wellness scores.
