@@ -1,4 +1,5 @@
-# Insurance Analysis Pipeline
+# APT (Actuarial Personalized Tool)-Based Tool-Call sLLM Agent Pipeline for Enhancing Efficiency in Insurance Actuarial Work
+### 2025 DB Insurance & Finance Contest
 ![Figure](assets/figure.png)
 
 ## Overview
@@ -123,7 +124,7 @@ The following are sample CLI commands to execute specific analyses:
 Below is a graphical representation of how the Insurance Analysis Engine processes an input prompt. If your Markdown viewer supports Mermaid, you can visualize the flowchart:
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Input Prompt: prompt.txt"] --> B["PromptProcessor reads prompt"]
     B --> C["Parse prompt to extract analysis parameters"]
     C --> D["Generate tool calls for each analysis domain"]
