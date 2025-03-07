@@ -1,4 +1,5 @@
 # Insurance Analysis Pipeline
+![Figure](assets/figure.png)
 
 ## Overview
 
