@@ -1,5 +1,5 @@
 # APT (Actuarial Personalized Tool)-Based Tool-Call sLLM Agent Pipeline for Enhancing Efficiency in Insurance Actuarial Work
-### 2025 DB Insurance & Finance Contest
+### 🏆 2025 DB Insurance & Finance Contest [SELECTION]
 ![Figure](assets/figure.png)
 
 ## Overview
